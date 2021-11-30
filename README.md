@@ -16,8 +16,9 @@ I'm developing mobile apps in BelenApps [BelenApps Play Store](https://play.goog
 
 ## 🐬 How to reach me
 
+[Email](mailto:emrec759@gmail.com)
+<br/>
 [Twitter](https://twitter.com/emrecengiz_)
 <br/>
 [Linkedin](https://linkedin.com/in/emrecengizz)
-<br/>
 <br/>
