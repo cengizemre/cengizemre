@@ -12,7 +12,7 @@ I'm developing mobile apps in BelenApps [BelenApps Play Store](https://play.goog
 
 ## ⛵ I'm currently working on
 
-[Birlikte Başaralım App](https://play.google.com/store/apps/details?id=com.osym_exp_app) As a community application where all students and teachers who are candidates for Assessment, Selection and Placement share their exam experiences, Let's Achieve Together is a platform where you can share exam anxiety and stress, topics that no one talks about the exam, and your exam experiences.
+[Birlikte Başaralım App](https://play.google.com/store/apps/details?id=com.osym_exp_app) As a community application where all students and teachers who are candidates for Assessment, Selection and Placement share their exam experiences, Let's Achieve Together is a platform where you can share exam anxiety and stress, topics that no one talks about exam, and your exam experiences.
 
 ## 🐬 How to reach me
 
