@@ -8,7 +8,7 @@ I have been involved in software development for 5 years. I started by learning 
 
 ## 🧪 Job
 
-I'm developing mobile apps in BelenApps [BelenApps Play Store](https://play.google.com/store/apps/dev?id=8975801412869495879)
+I'm developing mobile apps in BelenApps [Play Store](https://play.google.com/store/apps/dev?id=8975801412869495879)
 
 ## ⛵ I'm currently working on
 
