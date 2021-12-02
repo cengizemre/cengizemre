@@ -1,4 +1,4 @@
-## ⭐ Aganta Burina Burinata
+## ⭐ Hi, I am Emre
 
 I have been involved in software development for 5 years. I started by learning the first Javascript programming language. Currently, I am interested in Mobile application development, web applications, and desktop application development.
 
