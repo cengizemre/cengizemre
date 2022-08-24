@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">Software Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=false&lines=Software+Developer;BelenApps)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=false&lines=Software+Developer;BelenApps)](https://birliktebasaralim.com) 
 
 
 - 🔭 I’m currently working on [BelenApps](https://play.google.com/store/apps/dev?id=8975801412869495879)
