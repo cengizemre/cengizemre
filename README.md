@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=false&lines=Software+Developer;BelenApps)](https://birliktebasaralim.com) 
 
 
-- 🔭 I’m currently working on [BelenApps](https://play.google.com/store/apps/dev?id=8975801412869495879)
 
 - 📫 How to reach me **emrec759@gmail.com**
 
