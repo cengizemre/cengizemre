@@ -20,8 +20,5 @@
 
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cengizemre&theme=dark&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
 <a href="http://www.github.com/cengizemre"><img src="https://activity-graph.herokuapp.com/graph?username=cengizemre&bg_color=1c1917&color=fff&line=1a75cf&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
