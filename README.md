@@ -12,6 +12,8 @@ Currently building AI agent workflows on top of Claude Code and LLM APIs at **Al
 
 **IoT building management platform**, my main work at Togi Teknoloji. I built the Fastify backend, the React operator console, and the iOS/Android apps published on the App Store and Google Play, and maintained the AWS infrastructure behind them (IoT Core, EC2, ECR, CloudFormation). The platform manages 1,000+ devices across Turkey, Denmark, Italy and the Netherlands: real-time device shadows, OTA firmware updates, live sensor charts.
 
+**Freelance projects** for companies since 2017, from internal tools to published apps. One example is a stock and inventory ERP application I built for a machinery manufacturer, replacing a manual, spreadsheet-driven process.
+
 **[react-native-permission-gate](https://github.com/cengizemre/react-native-permission-gate)** is my open-source headless permission-flow orchestration library for React Native: a state-machine hook, rationale gating, and a component so you keep full control of the UI.
 
 **My own apps, live on the stores:**
