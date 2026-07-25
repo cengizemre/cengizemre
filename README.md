@@ -1,7 +1,7 @@
 # Emre Cengiz
 
 [![Portfolio](https://img.shields.io/badge/cengizemre.dev-portfolio-2b3137?style=flat-square&logo=safari&logoColor=white)](https://cengizemre.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emrecengiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrecengiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emrecengiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrecengizz)
 [![Email](https://img.shields.io/badge/email-emre.cengiz.personal%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emre.cengiz.personal@gmail.com)
 
 Full stack developer in Ankara, Turkey. React Native, TypeScript, Node.js. I take products from architecture to the store listing, and I ship my own apps on the side.
